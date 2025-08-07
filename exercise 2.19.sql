@@ -1,0 +1,2 @@
+SELECT warehouseID
+from warehouse;

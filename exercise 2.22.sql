@@ -1,0 +1,2 @@
+SELECT *  
+from warehouse;
